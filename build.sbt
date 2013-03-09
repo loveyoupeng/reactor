@@ -15,3 +15,7 @@ libraryDependencies +=
 
 libraryDependencies +=
       "org.scalacheck" %% "scalacheck" % "1.10.0" % "test"
+
+
+libraryDependencies +=
+      "junit" % "junit" % "4.11" % "test"
